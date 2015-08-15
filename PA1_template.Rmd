@@ -205,4 +205,8 @@ xyplot(mean ~ interval | date,
         ylab = "Number of steps",
         main = "Weekend and Weekday Activity Patterns")
 
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 7e22c6ee2397967736ee09c4ac5ea4f87f238495
